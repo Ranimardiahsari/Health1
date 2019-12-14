@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/eberhard"
+    android:weightSum="10"
+    tools:context="com.example.health.MainActivity"
+    tools:ignore="Deprecated">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="2"
+        android:paddingBottom="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/textView"
+            android:textSize="55sp"
+            android:layout_gravity="center"
+            android:text="Tips Info Sehat"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/dancingscript_bold"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/textView"
+            android:layout_marginTop="50dp"
+            android:id="@+id/textView1"
+            android:textSize="20sp"
+            android:text="*******************************"
+            android:layout_gravity="center"
+            android:background="@color/colorAccent"
+            android:textColor="@color/colorAccent"
+            android:fontFamily="@font/dancingscript_bold"
+            android:textStyle="bold"/>
+
+
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="150dp"-->
+<!--            android:layout_centerInParent="true"-->
+<!--            android:paddingLeft="15dp"-->
+<!--            android:text="Tips Info Sehat"-->
+<!--            android:textColor="@android:color/white"-->
+<!--            android:textSize="50sp"-->
+<!--            android:fontFamily="@font/pacifico_regular"/>-->
+
+
+    </RelativeLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:alignmentMode="alignMargins"
+
+        android:columnOrderPreserved="false"
+        android:padding="15dp"
+
+        tools:ignore="Suspicious0dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn1"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="40dp"
+                android:layout_weight="8"
+                android:background="@drawable/people"
+                android:onClick="pertolongan"
+                android:paddingTop="80dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/acme_regular"
+                android:layout_marginLeft="120dp"
+                android:text="Pertolongan Pertama"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="40dp"
+                android:layout_weight="8"
+                android:background="@drawable/healthy"
+                android:onClick="berita"
+                android:paddingTop="80dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="132dp"
+                android:fontFamily="@font/acme_regular"
+                android:gravity="center_vertical"
+                android:paddingTop="10dp"
+                android:text="Berita Kesehatan"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+
+            <!--        </LinearLayout>-->
+
+            <!--        <LinearLayout-->
+            <!--            android:layout_width="190dp"-->
+            <!--            android:layout_height="wrap_content"-->
+            <!--            android:layout_weight="2"-->
+            <!--            android:orientation="vertical">-->
+
+
+            <Button
+                android:id="@+id/btn4"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="left"
+                android:layout_marginLeft="130dp"
+                android:layout_marginTop="40dp"
+                android:onClick="kuis"
+                android:layout_weight="8"
+                android:background="@drawable/orang"
+                android:paddingTop="80dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="145dp"
+                android:fontFamily="@font/acme_regular"
+                android:gravity="center_vertical"
+                android:paddingTop="10dp"
+                android:text="kuisioner"
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </GridLayout>
+
+
+</LinearLayout>

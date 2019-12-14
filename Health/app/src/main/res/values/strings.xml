@@ -1,0 +1,129 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">healthy</string>
+    <string name="title_activity_pertolongan">pertolongan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_rumah">Map</string>
+    <string name="yang_dapat_dilakukan">Yang Dapat Dilakukan</string>
+    <string name="deskripsi">1.	•	Minta penderita untuk meludahkan sisa racun yang masih ada di mulut. Namun, jangan memaksa penderita untuk memuntahkan racun yang sudah tertelan, karena justru bisa berbahaya.
+\n2. •	Jika penderita muntah secara tidak sengaja, segera bersihkan mulut dan tenggorokannya. Caranya, balutkan kain bersih ke jari dan tangan Anda, lalu  gunakan jari Anda untuk membersihkan mulut dan tenggorokannya.
+\n3. •	Bila penderita tidak sadarkan diri, cobalah untuk membangunkannya, lalu minta ia untuk meludahkan sisa racun yang masih terdapat di mulutnya.
+\n4. •	Sambil menunggu pertolongan medis datang, baringkan penderita dengan posisi miring ke arah kiri dan berikan bantal atau penyangga pada punggungnya. Tarik dan tekuk tungkai yang berada di atas ke arah depan. Posisi seperti ini disebut posisi pemulihan (recovery position).
+\n5. •	Jika korban keracunan sadar, minta ia untuk duduk dan pastikan penderita tetap sadar hingga tim medis datang.
+\n6. •	Jika zat berbahaya tersebut mengenai baju atau kulit penderita, segera bersihkan.
+\n7. •	Apabila korban keracunan tidak bernapas, lakukan prosedur CPR (resusitasi jantung paru) jika Anda mengetahui caranya.
+
+  \n
+    </string>
+    <string name="deskripsike2">1. •	Duduk tegak dan jangan berbaring. Posisi duduk dapat mengurangi tekanan pembuluh darah dalam hidung, sehingga perdarahan dapat segera berhenti.
+\n2. •	Condongkan tubuh ke depan agar darah yang keluar dari hidung tidak masuk ke tenggorokan. Darah yang tertelan dapat memicu muntah.
+\n3. •	Pencet hidung selama 10-15 menit dan bernapaslah melalui mulut.
+\n4. •	Kompres pangkal hidung dengan kompres dingin untuk memperlambat perdarahan.
+  \n5. •	Setelah mimisan berhenti, usahakan untuk tidak membuang ingus, mengorek bagian dalam hidung, membungkuk, atau melakukan aktivitas berat setidaknya selama 24 jam.
+        \n
+</string>
+    <string name="deskripsi1">\n1.	Pindahkan orang yang pingsan ke lokasi yang aman dan nyaman. Misalnya jika pingsan di jalan, coba pindahkan orang tersebut ke tepi jalan. Jika pingsan disebabkan oleh hawa panas, pindahkan orang tersebut ke tempat yang lebih teduh dan pastikan dia mendapatkan udara segar.
+\n2.	Baringkan orang tersebut dengan posisi punggung rata
+\n3.	Tinggikan bagian kakinya untuk mengembalikan aliran darah ke otak.
+\n4.	Kendurkan pakaiannya jika pakaiannya terlihat ketat
+\n5.	Bangunkan orang yang pingsan
+\n6.	Baringkan ke samping jika seseorang yang pingsan muntah atau mengalami pendarahan dari mulut.
+\n7.	Guncang tubuh orang tersebut, tepuk bagian tubuhnya, atau bisa juga dengan memanggil-manggil nama nya.
+\n8.	Jika tidak ada respon dari cara di atas, lakukan pernapasan buatan dan segera hubungi ambulans di nomor 118 atau 119.
+        \n
+</string>
+    <string name="deskripsike3">1. •	Bersihkan luka dari kotoran yang mungkin menempel di bawah air mengalir atau hingga bersih.
+\n2. •	Sebaiknya hindari menggunakan bahan-bahan pembersih mengandung alkohol, iodine, ataupun hidrogen peroksida langsung di luka terbuka karena dapat menyebabkan iritasi dan perih.
+\n3. •	Oleskan antibiotik untuk membuat luka tetap lembap, sehingga mempercepat penyembuhan, serta mencegah infeksi.
+\n4. •	Tutup luka dengan kasa steril yang lembut dan ganti setiap hari.
+\n5•	Hindari luka dari pajanan sinar matahari untuk mencegah hiperpigmentasi permanen.
+\n6•	Periksakan ke dokter jika perdarahan luka lecet tidak berhenti, darah muncrat keluar, pinggiran luka menganga terbuka, luka disebabkan oleh sesuatu yang kotor dan berkarat, dan area luka terasa kebas.
+\n7•	Hindari mengoleskan salep ataupun bahan selain obat luka, kecuali dilakukan atau dianjurkan oleh dokter.
+\n8•	Jika terdapat memar atau bengkak, kompres dengan es. Segera periksakan diri ke dokter jika luka lecet terlalu lebar atau terlalu dalam untuk ditangani sendiri.
+\n
+    </string>
+    <string name="deskripsike4">\n 1. •	Luka bakar perlu didinginkan untuk meredakan rasa perih. Anda bisa letakkan handuk yang sudah dibasahi air dingin pada luka.
+\n 2. •	Hindari memecahkan luka yang melepuh karena berisiko menyebabkan infeksi.
+\n 3. • Cuci dengan air bersih mengalir jika ada luka lepuh yang pecah dengan sendirinya.
+\n 4. •	Jika rasa sakit terasa tidak tertahankan, penderita dapat mengonsumsi obat pereda rasa sakit, seperti paracetamol, atau obat antinyeri lainnya sesuai anjuran dokter.
+\n
+    </string>
+    <string name="deskripsike5">1. •	Dinginkan area luka bakar dengan handuk selama kurang lebih 15 menit.
+\n2. •	Hindari memecahkan luka yang melepuh karena berisiko menyebabkan infeksi.
+\n3. •	Periksakan diri ke dokter jika terdapat luka lepuh yang cukup besar, jika luka bakar cukup luas, atau jika terjadi infeksi berupa bengkak, merah, dan rasa sakit yang bertambah parah. Dokter mungkin akan memberi pengobatan berupa antinyeri atau antibiotik.
+\n
+    </string>
+    <string name="deskripsike6">1. •	Jauhkan korban dari sumber kebakaran atau area yang berdekatan dengan api maupun asap.
+\n2. •	Pastikan korban dapat bernapas dengan lancar.
+\n3. •	Bila perlu dan jika memungkinkan, berikan bantuan pernapasan.
+\n4. •	Lepaskan perhiasan, ikat pinggang, ataupun aksesori yang melingkar di sekitar area yang terbakar.
+\n5. •	Untuk mencegah terjadinya hipotermia, jangan berikan air dingin pada luka bakar yang luas. Hal ini juga untuk mencegah turunnya tekanan darah dan aliran darah secara drastis.
+\n6. •	Tutup luka bakar dengan kain bersih atau plester yang dingin dan lembut.
+\n7. •	Hindari mengoleskan obat atau salep pada area yang terbakar di luar dari anjuran dokter. Selain itu, menempelkan es atau mengoleskan mentega justru dapat membahayakan jaringan kulit yang terbakar.
+\n8. •	Baringkan pasien dengan kaki terangkat setidaknya 40 cm.
+\n9. •	Gunakan selimut atau mantel pada tubuh pasien.
+\n
+    </string>
+    <string name="deskripsike7">1. •	Hubungi ambulans.
+\n2. •	Bantu orang tersebut untuk duduk tegak dengan nyaman, sambil melonggarkan pakaiannya agar tidak sesak.
+\n3. •	Jauhkan penderita asma yang sedang kumat dari kemungkinan pencetusnya, seperti debu, udara dingin, atau hewan peliharaan. Tanyakan faktor pencetus asma pada penderita, jika memungkinkan.
+\n4. •	Jika orang tersebut memiliki obat asma, seperti inhaler, bantu dia untuk Jika dia tidak punya inhaler, gunakan inhaler yang ada di kotak P3K. Jangan pakai obat inhaler dari penderita asma yang lain.
+\n5. •	Untuk menggunakan inhaler, pertama-tama lepaskan tutupnya, kocok, lalu sambungkan inhaler ke spacer, dan pasangkan mouthpiece pada spacer.
+\n6. •	Setelah itu, tempelkan mouthpiece pada mulut penderita. Usahakan agar mulut penderita menutupi seluruh ujung mouthpiece.
+\n7. •	Ketika penderita mengambil napas perlahan-lahan, tekan inhaler satu kali. Minta dia agar tetap mengambil napas pelan-pelan dan sedalam mungkin, kemudian tahan napas selama 10 detik.
+\n8. •	Semprotkan inhaler sebanyak empat kali, dengan jarak waktu sekitar 1 menit tiap kali semprotan.
+\n9. •	Setelah empat semprotan, tunggu hingga 4 menit. Jika masih sulit bernapas, berikan empat semprotan lagi dengan jarak waktu yang sama.
+\n10. •	Jika tetap tidak ada perubahan, berikan empat semprotan inhaler setiap 4 menit sekali, sampai ambulans tiba.
+\n11. •	Jika serangan asmanya berat, semprotkan inhaler sebanyak 6-8 kali setiap 5 menit.
+\n
+    </string>
+    <string name="deskripsike8">Lemah jantung yaitu nyeri jantung yang disebabkan oleh sirkulasi darah kejantung terganggu atau terdapat kerusakan pada jantung.
+\n 1.Tenangkan korban
+\n 2. Istirahatkan
+\n 3. Posisi duduk
+\n 4. Buka jalan pernafasan dan atur nafas
+\n 5. Longgarkan pakaian dan barang barang yang mengikat pada badan
+\n 6. Jangan beri makan/minum terlebih dahulu
+\n 7. Jangan biarkan korban sendirian (harus ada orang lain didekatnya)
+\n
+    </string>
+    <string name="deskripsike9">Maag/Mual yaitu gangguan lambung/saluran pencernaan.
+Penanganan
+\n 1.    Istirahatkan korban dalam posisi duduk ataupun berbaring sesuai kondisi korban
+\n 2.    Beri minuman hangat
+\n 3.    Jangan beri makan terlalu cepat
+\n Gejala
+\n ·    Perut terasa nyeri/mual
+\n ·    Berkeringat dingin
+\n ·    Lemas
+\n
+    </string>
+    <string name="deskripsike10">Memar yaitu pendarahan yang terjadi di lapisan bawah kulit akibat dari benturan keras.
+\nGejala
+\n·    Warna kebiruan/merah pada kulit
+\n·    Nyeri jika di tekan
+\n·    Kadang disertai bengkak
+\nPenanganan
+\n1.    Kompres dingin
+\n2.    Balut tekan
+\n3.    Tinggikan bagian luka
+        \n
+</string>
+
+</resources>

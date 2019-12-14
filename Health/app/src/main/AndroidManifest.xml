@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.health">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/healthy"
+        android:label="healthy"
+        android:roundIcon="@mipmap/healthy"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".splashscreen" />
+        <activity android:name=".DetailsActivity"/>
+        <activity android:name=".materi11" />
+        <activity android:name=".materi10" />
+        <activity android:name=".materi9" />
+        <activity android:name=".materi8" />
+        <activity android:name=".materi7" />
+        <activity android:name=".materi6" />
+        <activity android:name=".materi5" />
+        <activity android:name=".materi4" />
+        <activity android:name=".materi3" />
+        <activity android:name=".materi2" />
+        <activity android:name=".materi1" />
+        <activity android:name=".kuisioner" />
+        <activity android:name=".kesehatann" />
+        <activity android:name=".pertolongann" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
